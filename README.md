@@ -1,2 +1,2 @@
 # TransferStyle
-PyTorch lightning implementation of style transfer transformer 
+Pytorch Lightning implementation of Transfer Style Transformer
