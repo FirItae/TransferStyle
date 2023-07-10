@@ -5,10 +5,11 @@ Pytorch Lightning implementation of Transfer Style Transformer
 
 ## Samples
 Here are some samples of stylized images generated using the Transfer Style Model:
-![Alt text](media_images_samples_val_8134_227fa59a3cf97144e4db-1.png)
-![Alt text](media_images_samples_val_9046_1959426c395a5250a4ac.png)
-![Alt text](telegram-cloud-photo-size-2-5267483548812693736-y.jpg)
-![Alt text](image.png)
+![Alt text](images/image_1.png)
+![Alt text](images/image_2.png)
+![Alt text](images/image_3.png)
+![Alt text](images/image_4.png)
+![Alt text](images/image_5.jpg)
 
 ## Installation
 
